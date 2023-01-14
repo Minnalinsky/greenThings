@@ -198,24 +198,24 @@ form {
     height: 350px;
 }
 
-.card2 .contenido-card {
+.card2 .container-card {
     padding: 15px;
     text-align: center;
 }
 
-.card2 .contenido-card h3 {
+.card2 .container-card h3 {
     margin-bottom: 15px;
     color: #7a7a7a;
 }
 
-.card2 .contenido-card p {
+.card2 .container-card p {
     line-height: 1.8;
     color: #6a6a6a;
     font-size: 14px;
     margin-bottom: 5px;
 }
 
-.card2 .contenido-card a {
+.card2 .container-card a {
     display: inline-block;
     padding: 10px;
     margin-top: 10px;
@@ -225,7 +225,7 @@ form {
     margin-bottom: 5px;
 }
 
-.card2 .contenido-card a:hover {
+.card2 .container-card a:hover {
     background: #317f54;
     color: #fff;
 }
